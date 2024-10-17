@@ -1,0 +1,19 @@
+You are a practitioner in the epilepsy treatment industry. You are asked to come up with a set of 15 task. These task will be given to a Seizure treatment task-based GPT model and we will evaluate the GPT model for completing the instructions.
+Here are the requirements:
+1. Try not to repeat the verb and item for each instruction and input to maximize diversity.
+2. The language used for the instruction also should be diverse. For example, you should combine questions with imperative instructions.
+3. The type of instructions should be diverse. The list should include diverse types of tasks like open-ended generation, classification, editing, etc.
+4. A GPT language model should be able to complete the instruction. For example, do not ask the assistant to create any visual or audio output. For another example, do not ask the assistant to wake you up at 5pm or set a reminder because it cannot perform any action.
+5. The instructions should be in English.
+6. The instructions should be 1 to 2 sentences long. Either an imperative sentence or a question is permitted.
+7. Sometimes, instruction should contain "this" keyword. It means something related to epilepsy or seizure. For example, "explain this medicine when seizure onset"
+8. Not all instructions require input. For example, when a instruction asks about some general information, "what is the highest peak in the world", it is not necessary to provide a specific context. In this case, we simply put "<noinput>" in the input field.
+9. If necessary, you should generate an appropriate input to the instruction. The input field should contain a specific example provided for the instruction. If, there is "this" keyword in instruction, then generate a item to represent it. Don't appear "this" or "e.g." keyword in input field. The input should provide substantial content to make the instruction challenging but should ideally not exceed 100 words.
+10. The output should be an appropriate response to the instruction and the input. Make sure the output is less than 100 words.
+11. The result should exactly follow the format as example given, not other input is allow for the generated text.
+12. You should generate the output base on instruction and input.
+13. Should use *** to split each task. Should not generate "task" keyword.
+14. Diversity in topic is very important. If an item appear in instruction or input, try to figure out another similar item to represent item. Always be innovative.
+
+
+Here is the example for you:

@@ -1,0 +1,250 @@
+Epilepsy: a public health imperative
+6
+Executive summary
+Introduction
+Epilepsy is a brain disease characterized by abnormal brain activity causing seizures or unusual behaviour, 
+sensations and sometimes loss of awareness. It carries neurological, cognitive, psychological and social 
+consequences and accounts for a significant proportion of the world’s burden of disease, affecting around 
+50 million people worldwide. The number of people with epilepsy is expected to increase further due 
+to rising life expectancy worldwide and an increasing proportion of people surviving insults which often 
+lead to epilepsy, such as birth trauma, traumatic brain injury (TBI), infections of the brain, and stroke. The 
+physical, psychological and social consequences of epilepsy impose significant burdens on people living 
+with the condition and their families. Around the world, people with epilepsy and their families suffer 
+from stigma and discrimination, often facing serious difficulties in education, employment, marriage and 
+reproduction. Nearly 80% of people with epilepsy live in low- and middle-income countries (LMIC), where 
+treatment gaps exceed 75% in most low-income countries and 50% in most middle-income countries. 
+This is despite the effectiveness and low cost of antiseizure medicines. 
+The Sustainable Development Goals (SDGs), which seek to achieve global economic, social and environmental 
+sustainable development by 2030, will not be realized without investment in physical and mental health 
+for all people, including those living with epilepsy. This report calls for accelerated action to highlight 
+epilepsy as a public health priority and support investment in reducing the burden it places. 
+At the Sixty-eighth World Health Assembly (WHA) in 2015, 194 Member States unanimously adopted 
+resolution WHA68.20 on epilepsy which called for the need for coordinated action at the country level 
+to address its health, social, and public knowledge implications. The third High-level Meeting on the 
+prevention and control of noncommunicable diseases (NCDs) in 2018 highlighted the importance of 
+mental health conditions, drawing the attention of policy-makers to integrate epilepsy into action on NCDs 
+and mental health. This report represents a collaborative effort between the World Health Organization 
+(WHO), the International League Against Epilepsy (ILAE) and the International Bureau for Epilepsy (IBE) 
+to provide technical support to countries in addressing the needs of people with epilepsy.
+The objective of this report is to raise the prioritization of epilepsy on the global agenda; to describe a 
+public health approach that addresses its high burden; and to advocate for crucial actions that address 
+gaps in epilepsy knowledge, care and research. It is written for not only policy-makers and public health 
+experts and health care providers, but also for people living with epilepsy, their families and civil society 
+organizations. 
+Summary
+7
+Global burden of epilepsy 
+Epilepsy accounts for over 13 million disability-adjusted life years (DALYs) and is responsible for more than 
+0.5% of the global burden of disease (GBD). It affects people of all ages, sexes, races, income groups 
+and geographical locations. Around 7.6 per 1000 persons have epilepsy during their lifetime. It has a 
+bimodal distribution according to age with peaks in the youngest individuals and in those over 60 years 
+of age. Epilepsy has a variety of causes, ranging from genetic, metabolic, infectious, structural, immune 
+and unknown. There is a higher incidence of epilepsy in LMIC (139 per 100 000 person-years) compared 
+with high-income countries (HIC) (48.9).
+Epilepsy carries a significantly increased risk of premature mortality, compared with the general 
+population. Among deaths directly attributable to epilepsy, important immediate causes include sudden 
+unexpected death in epilepsy (SUDEP), status epilepticus – characterized by seizure duration of over 30 
+minutes or seizures occurring close together without recovery in between, unintentional injuries, and suicide.
+In LMIC, early death among people with epilepsy is significantly higher than in HIC. Excess mortality in 
+LMIC is more likely to be associated with causes attributable to lack of access to health facilities and 
+preventable causes such as drowning, head injuries, and burns. This could be substantially reduced with 
+education about the risk of death and improved access to treatments, including antiseizure medicines.
+Roughly half of the people with epilepsy have coexisting physical or psychiatric conditions. 
+Physical and psychiatric comorbidities in people with epilepsy are associated with poorer health outcomes, 
+increased health care needs, decreased quality of life and greater social exclusion. The most prevalent 
+psychiatric comorbidities are depression (23%) and anxiety (20%). Intellectual disability is the most 
+common comorbidity in children with epilepsy (30–40%). Epilepsy is also commonly associated with 
+neurodegenerative diseases. 
+Epilepsy is a treatable condition. Up to 70% of people with epilepsy could become seizure free with 
+appropriate diagnosis and use of cost-effective, and commonly available, antiseizure medicines. This can 
+lead people with epilepsy to continue, or return to, a full and productive life. Despite the very low cost 
+of antiseizure medicines, more than 75% of people with epilepsy in low-income countries do not receive 
+treatment. Left untreated, people living with epilepsy face devastating social consequences, 
+including stigma, discrimination and human rights violations.
+Leadership and governance for epilepsy
+Given the burden of epilepsy, a broad public health approach is needed to improve the care and 
+quality of life of people with epilepsy. This requires governments to provide universal coverage through 
+health and social care services, as well as policies and legislation to address stigma, discrimination and 
+barriers to civil rights.
+In many countries, laws impacting the lives of people with epilepsy are outdated and fail to protect and 
+promote their human rights. Legislation for epilepsy, where it exists, sometimes actively violates the rights 
+of people with epilepsy. This leads to unmet needs in the areas of education, employment, residential 
+and community services, and access to appropriate and affordable health care. 
+Leadership and governance are critical levers for addressing these challenges and to improve care and 
+support for people with epilepsy. The implementation of policies and plans for epilepsy requires 
+strong leadership and intersectoral collaboration. 
+Epilepsy: a public health imperative
+8
+While significant steps forward have been made in recent years under the leadership of WHO/ILAE/
+IBE, more action is needed globally as well as oversight for implementation in every country, to reduce 
+the burden of epilepsy. Legislative initiatives, public campaigns and social programmes are needed to 
+guarantee the social and human rights of people with epilepsy. These should align with international 
+human rights standards and global health agendas such as SDGs. Appropriate and integrated treatment 
+of people with epilepsy requires that governments allocate sufficient funds towards epilepsy care and 
+adopt a public health approach. Better data and information systems are needed to make the case for 
+prioritizing epilepsy in global public health agendas.
+Comprehensive health care response to epilepsy
+Health care for people with epilepsy involves providing health care and social services to decrease morbidity, 
+premature mortality and adverse psychosocial outcomes associated with the condition. Providing quality 
+epilepsy care is a challenge because of its complexity, chronicity and considerable comorbidity. 
+The care needs of people with epilepsy are multifaceted and should be a matter of great concern for 
+policy-makers in all countries, as there are considerable gaps in policies and care available for epilepsy 
+worldwide. Access to care for people with epilepsy varies considerably across and within countries 
+and unmet needs exist in every country, but particularly in LMIC. 
+The spectrum of health care needs for people with epilepsy and their families can be viewed as a stepped 
+model: starting with the initial diagnosis and continuing, as necessary, through to nonpharmacological 
+therapies (e.g. surgery) for drug-resistant epilepsy (see figure below). The management of comorbidities 
+should be an essential component at all levels of care. Multidisciplinary health care teams that 
+emphasize person-centred care are also important in the stepped model (e.g. physicians, nurses, pharmacists, 
+therapists and social workers). Community-based care should be emphasized to increase access to all 
+people in need of epilepsy services. Social and educational services should provide individualized support 
+to people with epilepsy, throughout the levels of care and should continue, as needed, even when the 
+person is no longer having seizures.
+Stepped model to improve quality of care for people with epilepsy
+Primary care for initial identification of symptoms, 
+diagnosis and basic medication treatment
+L E V E L  1
+Specialist care, adjunct tests for optimal 
+diagnosis and medication treatment
+L E V E L  2
+Comprehensive pharmacological and 
+nonpharmacological treatment
+L E V E L  3
+PUBLIC AWARENESS OF EPILEPSY, ITS SYMPTOMS AND EFFECTS
+SOCIAL AND EDUCATION SERVICES
+TREATMENT OF COMORBIDITIES
+Summary
+9
+Policy-makers need to ensure that there are sufficient population and health care system data to determine 
+the need for and evaluation of epilepsy care, identify appropriate training for providers, provide guidelines 
+for quality health care, and allocate the required resources to ensure those living with epilepsy have access 
+to adequate health and social services.
+Country examples of comprehensive care for epilepsy do exist. The WHO Programme on reducing the 
+epilepsy treatment gap has shown that epilepsy care can be cost-effectively integrated into the primary 
+health system in low-resource settings. Through pilot projects in Ghana, Mozambique, Myanmar and 
+Viet Nam the programme has meant that 6.5 million people now have access to health facilities where 
+epilepsy care is available.
+Access to antiseizure medicines 
+Various terms are used to describe medicines used to manage acute seizures (e.g. antiseizure, anticonvulsant, 
+and antiepileptic medicines/drugs); antiseizure medicines is the broadest possible term for this class of 
+medicines (not all seizures are convulsive, nor do all seizures constitute epileptic conditions). 
+People with epilepsy require treatment with antiseizure medicines for many years, sometimes for a lifetime. 
+The abrupt withdrawal of antiseizure medicines may result in life-threatening consequences, including 
+status epilepticus. Therefore, it is essential to ensure that access to these medicines is sustained over time 
+to ensure uninterrupted treatment. 
+The imperative to increase access to essential medicines was highlighted in the United Nations SDGs in 
+goals 3.4 and 3.8. The key components of access are: rational selection, availability, affordability 
+and appropriate use of essential medicines (see figure below). 
+
+10
+Ensuring uninterrupted supply of appropriate access to antiseizure medicines is one of the highest 
+priorities. Policies should be in place to monitor supply chains and stock-outs in health facilities and 
+address possible disruptions.
+Access to antiseizure medicines offers the potential for approximately 70% of people with epilepsy to live 
+seizure free (on medicines), with an opportunity to impact their quality of life and participation in society. 
+Understanding the myriad of financial, educational and sociocultural barriers to accessing antiseizure 
+medicines is crucial for the adequate planning of financial, health system and clinical interventions to 
+help improve access to treatment for people with epilepsy. 
+Actions to improve access to medicines should be addressed at the international, national, 
+district, community and individual levels. There are different options when establishing health policies 
+impacting access to antiseizure medicines. The optimal model to be adopted depends on the local context, 
+and opportunities to integrate an epilepsy action plan within broader public health objectives. Transparent 
+policies that involve all stakeholders – from suppliers to government acquisition – need to be developed. 
+The social response: misconceptions and stigma in epilepsy 
+Stigma is a significant contributor to poor physical and mental health in people with epilepsy 
+and will not be improved with a single approach. A multipronged strategy, which is culturally appropriate, 
+multisectoral and collaborative, is needed.
+Misconceptions and poor understanding about the nature of epilepsy contribute to the burden of disease 
+and lead to stigma. This includes the perception of epilepsy as a form of insanity, ruining people’s lives, 
+and being untreatable or contagious. Misconceptions and negative attitudes cause people with epilepsy 
+to feel shame, embarrassment and disgrace. The impact of feeling socially excluded contributes to the 
+physical, psychological and social burden of epilepsy. Stigma can delay appropriate health care 
+seeking, access to care, health financing and availability of treatment. 
+Institutionalized discrimination in epilepsy affects employment, education, marriage and childbearing, 
+and driving regulations. Discriminatory laws exist in a number of countries. Most were repealed decades 
+ago, but the legacy of these laws can still lead to misconceptions and discrimination.  
+Direct investments in health care do not necessarily lead to improvements in epilepsy-related stigma. To 
+reduce stigma, funds need to be directed toward epilepsy awareness and stigma-reduction programmes. 
+Policy-makers can reduce stigma by changing laws that are punitive to people with epilepsy. A multisectoral 
+public health response needs to include interventions that improve the knowledge of individuals and 
+their families, teachers, employers, health care providers, disability service providers, care providers, first 
+responders, traditional healers, media, community and policy-makers.
+Prevention of epilepsy
+The high global burden of epilepsy requires prevention where possible. The major modifiable risk factors 
+for epilepsy are: perinatal risk factors, central nervous system (CNS) infections, TBI and stroke, which, 
+together, account for an estimated 25% of epilepsy cases.
+•	 Perinatal risk factors related to epilepsy include gestational age at delivery, birth weight, maternal 
+health conditions such as nutritional status, pre-eclampsia, the presence and skill of birth attendants, 
+Summary
+11
+method of delivery, perinatal infection (e.g. human immunodeficiency virus [HIV]), and other adverse 
+events and conditions. 
+•	 Central nervous system infections, according to population-based studies, comprise three main 
+categories: bacterial meningitis, viral encephalitis and neurocysticercosis. Bacterial meningitis and 
+viral encephalitis combined account for approximately 2–3% of epilepsies in HIC and about 5% 
+of epilepsies in LMIC. In some LMIC where the Taenia solium (pork tapeworm) is endemic, roughly 
+one-third of epilepsies are attributed to neurocysticercosis. Malaria is one of the most common 
+parasitic diseases worldwide. Its neurological form, known as cerebral malaria, is a potential cause 
+of epilepsy in malaria-endemic regions of the world.
+•	 Traumatic brain injury is the cause of epilepsy in 4% of LMIC and 5% of HIC. Road traffic injuries, 
+falls and violence are the most common causes of TBI. The risk of epilepsy is higher in people with 
+severe versus mild TBI (increased almost 20-fold). 
+•	 Stroke, including ischaemic and haemorrhagic types, is also a common potentially preventable 
+cause of epilepsy, representing 12% of epilepsies in HIC and 2.7% in LMIC. Seizures after stroke 
+are associated with increased premature mortality, disability, and higher resource allocation and 
+costs. In population-based studies, stroke was identified as a common cause of status epilepticus 
+(12–40% in HIC, 5–15% in LMIC).
+Estimates of the burden of epilepsy attributable to preventable causes are at best approximate and 
+the true burden undoubtedly varies between regions and localities. The primary prevention of these 
+causes has a substantial impact on the development of epilepsies and requires improving maternal 
+health care and obstetrical services, communicable disease control, injury prevention, and cardiovascular 
+and cerebrovascular health with reduction of the major risk factors of NCDs. An understanding of 
+the development of epilepsy after a brain insult or parasitic infection is critical to the development of 
+secondary preventive strategies.
+Epilepsy research
+Epilepsy research has enabled remarkable progress in deepening our understanding of the etiologies 
+and mechanisms leading to epilepsy and associated comorbidities. It has also brought interventions and 
+treatments to improve the management of seizures and their comorbid conditions or consequences. 
+There remains, however, a dramatic inequality in access to and utilization of research resources 
+and expertise across the globe. 
+Investment in research for epilepsy is insufficient. Even in HIC, where significant investments in 
+epilepsy research have been made, funding for epilepsy only represents a small proportion of overall 
+funding. In the United States of America, the National Institutes of Health (NIH) support for epilepsy 
+research accounted for less than 0.09% of the total NIH budget dedicated to research and has stagnated 
+over the last 3 years, unlike other neurological conditions which have attracted increasing research support, 
+e.g. Alzheimer disease research, autism and rare diseases. 
+The barriers in funding epilepsy research are higher in LMIC, where financing comes from domestic 
+organizations and most funding is directed towards communicable diseases and little towards epilepsy. 
+Whether research is preclinical, clinical or at the population level, it is important to engage and sustain the 
+best pool of researchers in the field, at all career stages, and enrich the available resources by maintaining 
+collaborations within and beyond the epilepsy community to facilitate this. 
+Epilepsy: a public health imperative
+12
+Developing epilepsy research priorities around the world may be a vehicle to improve research 
+support and advocacy. Recognizing the need to determine possible areas of research priority, and as 
+a response to regional declarations on epilepsy, taskforces combining regional expertise from ILAE and 
+IBE were established to address research priorities in their region. A significant role in the advocacy for 
+epilepsy research has also been played by organizations led by families that have experienced epilepsy, 
+e.g. Citizens United for Research in Epilepsy (CURE). 
+The way to advance epilepsy research is through capacity building, especially research partnerships between 
+HIC and LMIC; increased funding and infrastructure for epilepsy research; optimization of research process 
+standardization; establishment of global, regional and national research priorities; enhanced efforts to 
+translate research findings into policies and programmes; and fostering stakeholder collaboration and 
+partnership. 
+The way forward
+Major gaps in awareness, diagnosis and treatment of epilepsy impose a significant global burden on the 
+lives of people with epilepsy. Epilepsy: a public health imperative raises epilepsy as a public health priority 
+to address these gaps through a cost-effective, coordinated response. People with epilepsy and their 
+families are asking that this unique opportunity not be lost, and that global action be taken. 
+Urgent actions are needed, and these include:
+•	 Promote epilepsy as a public health priority to reduce its burden.
+•	 Improve public attitudes, reduce stigma and promote protection of the rights of people with 
+epilepsy.
+•	 Invest in health and social care systems to improve accessibility to epilepsy care.
+•	 Enhance access to cost-effective antiseizure medications globally.
+•	 Prevent acquired epilepsies through improved care for common causes, such as perinatal 
+injury, central nervous system infections, stroke and traumatic brain injuries.
+•	 Increase priority given to epilepsy in research agendas.
+The time to act is NOW.
+EPILEPSY
+A public health imperative
